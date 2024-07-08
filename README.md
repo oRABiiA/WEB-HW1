@@ -1,8 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# WEB-FullStack-Project HW1
+The initial implementation of the Interactive Infographics for HW1 in the WEB course
+<br>
+If you wish to clone the repo into your workspace, please consider the following:
+<br>
+# (You must do the followwing in order to run the code properly):
+<br>
+  - Clone the Repo
+  - Run npm install in the terminal
+  - Run npm install tw-elements-react
+  - Run npm install react-icons
+<br>
