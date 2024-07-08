@@ -3,7 +3,7 @@ import { BiLogoFacebook } from "react-icons/bi";
 import Icon from "../assets/Charts/research.png"
 import Header from "./Header.jsx"
 
-const Home = ({setCurrentPage}) => {
+const Home = (props) => {
 
     const navigateToFacebook = () => {
         const url = 'https://www.facebook.com';
@@ -84,7 +84,7 @@ const Home = ({setCurrentPage}) => {
                         <button
                             className="mt-4 bg-neutral-200 hover:bg-neutral-500 px-4 py-2 text-black uppercase rounded text-xs tracking-wider"
                             type="submit"
-                            onClick={() => setCurrentPage('uploadPage')}
+                            onClick={() => props.setCurrentPage('uploadPage')}
                         >
                             Login
                         </button>
