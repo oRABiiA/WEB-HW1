@@ -10,4 +10,5 @@ If you wish to clone the repo into your workspace, please consider the following
   - Run npm install in the terminal
   - Run npm install tw-elements-react
   - Run npm install react-icons
+  - Run npm run dev
 <br>
