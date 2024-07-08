@@ -74,7 +74,7 @@ const Footer = () => {
             </div>
             <div
                 className="p-4 text-center bg-black bg-opacity-20">
-                © 2024 Copyright: Interactive Infographics בע"ם
+                © 2024 Copyright: Interactive Infographics
             </div>
         </footer>
     );
