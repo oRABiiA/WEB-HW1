@@ -46,7 +46,6 @@ const ChartPage = (props) => {
                 <img src={lineChartimage} alt="Line Chart" className="w-full h-full object-cover rounded-lg" />
                 </div>
             </div>
-            
             <div  className="min-h-screen bg-customDark mx-auto max-w-7xl py-24 sm:px-6 sm:py-32 lg:px-8 ">
                 <ChartHeader  data={props.data[0]} />
                 
