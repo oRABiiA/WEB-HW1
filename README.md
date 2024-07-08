@@ -3,7 +3,7 @@ The initial implementation of the Interactive Infographics for HW1 in the WEB co
 <br>
 If you wish to clone the repo into your workspace, please consider the following:
 <br>
-# (You must do the followwing in order to run the code properly):
+(You must do the following in order to run the code properly):
 <br>
   - Clone the Repo
   - Run npm install in the terminal
